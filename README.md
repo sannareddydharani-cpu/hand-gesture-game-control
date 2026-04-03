@@ -35,3 +35,5 @@ Key aspects that make this project stand out include:
 * Intuitive and touchless interaction without additional hardware
 
 This project emphasizes usability, efficiency, and real-world application, making it a practical solution for touchless control systems.
+
+While gesture recognition is an existing concept, my focus was on designing a real-time, efficient, and user-friendly system with reliable gesture-to-control mapping for interactive applications.
