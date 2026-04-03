@@ -21,3 +21,17 @@ DirectKeys (for keyboard simulation)
 # How to run
 * pip install opencv-python mediapipe
 * python your_file_name.py
+
+# What Makes This Project Unique
+
+While hand gesture recognition systems are a known concept in computer vision, this project focuses on building a real-time, lightweight, and user-friendly gesture control system specifically designed for game interaction.
+
+Key aspects that make this project stand out include:
+
+* Real-time performance with minimal latency
+* Accurate finger detection using optimized landmark analysis
+* Practical application in game control (GAS / BRAKE mapping)
+* Lightweight implementation that works on standard systems
+* Intuitive and touchless interaction without additional hardware
+
+This project emphasizes usability, efficiency, and real-world application, making it a practical solution for touchless control systems.
